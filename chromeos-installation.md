@@ -10,6 +10,7 @@ Chromium Dash: https://chromiumdash.appspot.com/serving-builds?deviceCategory=Ch
 Brunch (ChromeOS Runner): https://github.com/sebanc/brunch/releases?page=1
 
 Also things you select then:
+
 Select `Linux Mint` Cinnamon, then scroll down and select World > LayerOnline.
 
 Download `Rufus`and select `Rufus` 3.2.0 (1.3 MB).
