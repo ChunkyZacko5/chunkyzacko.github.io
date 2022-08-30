@@ -1,4 +1,7 @@
-# 1. Get started with Play Store
+# ChromeOS installation
+
+Do you want ChromeOS with Google Play Store? Here:
+# 1. Get started
 
 Things you need:
 
@@ -43,3 +46,9 @@ On your Windows computer, create the folder called chromeos/chromeOS, extract Br
 
 
 On your another computer, insert a USB stick and boot `Linux Mint` - Will you don't have, go to setup > Boot > Add Boot > USB > EFI > boot > bootx64.efi and name the boot. Save the changes and reboot. Select the boot and select start Linux Mint.
+
+# Need more?
+
+If you need more you want to click [here](https://www.youtube.com/watch?v=q3Mob5yXt9Q&vl=en) to view this video.
+
+`Note: That video not made by Chunky Zacko, but it's NETVN.`
