@@ -52,3 +52,6 @@ On your another computer, insert a USB stick and boot `Linux Mint` - Will you do
 If you need more you want to click [here](https://www.youtube.com/watch?v=q3Mob5yXt9Q&vl=en) to view this video.
 
 `Note: That video not made by Chunky Zacko, but it's NETVN.`
+
+
+[Return to homepage](https://chunkyzacko5.github.io)
