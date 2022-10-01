@@ -13,6 +13,10 @@ This OS made by `Chunky Zacko`.
 
 # Current version: 12.0 (2022)
 
+The current release is *12.0*.
+
+
+# Desktop
 
 | Version          | Codename         | Downloads                  | Date                   | Supported?                    |
 |------------------|------------------|----------------------------|------------------------|-------------------------------|
