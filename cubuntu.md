@@ -9,6 +9,6 @@ This OS made by `Chunky Zacko`.
 # Current version: 12.0 (2022)
 
 
-| Version          | Codename         | Downloads                  |
-|------------------|------------------|----------------------------|
-| `Cubuntu 12.0`   | `Rammie Tennia`  |  `64-bit` (Coming soon)    |
+| Version          | Codename         | Downloads                  | Date                   |
+|------------------|------------------|----------------------------|------------------------|
+| `Cubuntu 12.0`   | `Rammie Tennia`  |  `64-bit` (Coming soon)    | `2022, October, 1`     |
