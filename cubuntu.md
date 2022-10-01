@@ -1,5 +1,8 @@
 # Cubuntu the Ubuntu-based operating system Linux distribution
 
+Cubuntu is a Linux distro, the mode of `Ubuntu`. This OS **based** on Ubuntu, and the features graphical Cubuntu OS. The version is 12.0 currently. Next will be *12.1*. In `2024, February, 5`.
+
+
 # What is a Cubuntu?
 
 
@@ -11,6 +14,6 @@ This OS made by `Chunky Zacko`.
 # Current version: 12.0 (2022)
 
 
-| Version          | Codename         | Downloads                  | Date                   |
-|------------------|------------------|----------------------------|------------------------|
-| `Cubuntu 12.0`   | `Rammie Tennia`  |  `64-bit` (Coming soon)    | `2022, October, 1`     |
+| Version          | Codename         | Downloads                  | Date                   | Supported?                    |
+|------------------|------------------|----------------------------|------------------------|-------------------------------|
+| `Cubuntu 12.0`   | `Rammie Tennia`  |  `64-bit` (Coming soon)    | `2022, October, 1`     | Yes, until 2025, October, 3   |
