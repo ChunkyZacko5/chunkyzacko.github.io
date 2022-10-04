@@ -18,6 +18,9 @@ The current release is *12.0*.
 
 # Desktop
 
+
+The 12.0 release 64-bit desktop is here. (Download)[https://archive.org/download/cubuntu-os/cubuntu-12.0-desktop-64.iso]
+
 | Version          | Codename         | Downloads                  | Date                   | Supported?                    |
 |------------------|------------------|----------------------------|------------------------|-------------------------------|
-| `Cubuntu 12.0`   | `Rammie Tennia`  |  `64-bit` (Coming soon)    | `2022, October, 1`     | Yes, until 2025, October, 3   |
+| `Cubuntu 12.0`   | `Rammie Tennia`  |  `64-bit` (Action done)    | `2022, October, 1`     | Yes, until 2025, October, 3   |
