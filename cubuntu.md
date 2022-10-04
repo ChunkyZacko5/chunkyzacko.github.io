@@ -19,7 +19,7 @@ The current release is *12.0*.
 # Desktop
 
 
-The 12.0 release 64-bit desktop is here. (Download)[https://archive.org/download/cubuntu-os/cubuntu-12.0-desktop-64.iso]
+The 12.0 release 64-bit desktop is here. [Download](https://archive.org/download/cubuntu-os/cubuntu-12.0-desktop-64.iso) the ISO file Ubuntu 20.04-based OS with more apps.
 
 | Version          | Codename         | Downloads                  | Date                   | Supported?                    |
 |------------------|------------------|----------------------------|------------------------|-------------------------------|
