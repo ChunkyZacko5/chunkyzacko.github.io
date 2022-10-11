@@ -24,7 +24,7 @@ The 12.0 release 64-bit desktop is here. [Download](https://archive.org/download
 | Version          | Codename         | Downloads                  | Date                   | Supported?                    |
 |------------------|------------------|----------------------------|------------------------|-------------------------------|
 | `Cubuntu 12.0`   | `Rammie Tennia`  |  `64-bit` (Action done)    | `2022, October, 1`     | Yes, until 2025, October, 3   |
-| `Cubuntu 12.1`   | `Weedy Werewolf` |  `Not available`           | `2024, February, 5`    | No, coming soon               |
+| `Cubuntu 12.1`   | `Deaby Dingo`    |  `Not available`           | `2024, February, 5`    | No, coming soon               |
 # Logo
 
 
