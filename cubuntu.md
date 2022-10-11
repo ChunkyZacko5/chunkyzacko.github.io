@@ -24,3 +24,8 @@ The 12.0 release 64-bit desktop is here. [Download](https://archive.org/download
 | Version          | Codename         | Downloads                  | Date                   | Supported?                    |
 |------------------|------------------|----------------------------|------------------------|-------------------------------|
 | `Cubuntu 12.0`   | `Rammie Tennia`  |  `64-bit` (Action done)    | `2022, October, 1`     | Yes, until 2025, October, 3   |
+
+# Logo
+
+
+The OS logo in [my Fandom wiki](https://chunky-zacko.fandom.com/wiki/Cubuntu_(CZOS_edition)_logo).
