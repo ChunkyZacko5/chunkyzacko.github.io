@@ -199,3 +199,81 @@ The small old 12% called version 9.
 
 
 [64 ISO File](https://sourceforge.net/projects/zorin-os/files/9/zorin-os-9.1-core-64.iso/download)
+
+
+# Zorin OS 10
+
+The Zorin OS 10 released on 2015.
+
+
+
+[32-bit ISO file](https://sourceforge.net/projects/zorin-os/files/10/zorin-os-10-core-32.iso/download)
+
+[64-bit ISO file](https://sourceforge.net/projects/zorin-os/files/10/zorin-os-10-core-64.iso/download)
+
+[Lite ISO file](https://sourceforge.net/projects/zorin-os/files/10/zorin-os-10-lite-32.iso/download)
+
+
+# Zorin OS 11
+
+The Zorin OS 11 released on 2016.
+
+
+[32-bit ISO file](https://sourceforge.net/projects/zorin-os/files/11/zorin-os-11-core-32.iso/download)
+
+[64-bit ISO file](https://sourceforge.net/projects/zorin-os/files/11/zorin-os-11-core-64.iso/download)
+
+[Lite32 ISO file](https://sourceforge.net/projects/zorin-os/files/11/zorin-os-11-lite-32.iso/download)
+
+
+# Zorin OS 12
+
+The Zorin OS 12 released on 2016.
+
+
+[32-bit ISO file](https://sourceforge.net/projects/zorin-os/files/12/Zorin-OS-12-Core-32.iso/download)
+
+[64-bit ISO file](https://sourceforge.net/projects/zorin-os/files/12/Zorin-OS-12-Core-64.iso/download)
+
+
+**12.1**:
+
+[32-bit ISO file](https://sourceforge.net/projects/zorin-os/files/12/Zorin-OS-12.1-Core-32.iso/download)
+
+[64-bit ISO file](https://sourceforge.net/projects/zorin-os/files/12/Zorin-OS-12.1-Core-64.iso/download)
+
+[Educational ISO file](https://sourceforge.net/projects/zorin-os/files/12/Zorin-OS-12.1-Education-64.iso/download)
+
+[Lite64 ISO file](https://sourceforge.net/projects/zorin-os/files/12/Zorin-OS-12.1-Lite-64.iso/download)
+
+
+**12.2**:
+
+
+[32-bit ISO file](https://sourceforge.net/projects/zorin-os/files/12/Zorin-OS-12.2-Core-32.iso/download)
+
+[64-bit ISO file](https://sourceforge.net/projects/zorin-os/files/12/Zorin-OS-12.2-Core-64.iso/download)
+
+[Educational ISO file](https://sourceforge.net/projects/zorin-os/files/12/Zorin-OS-12.3-Education-64.iso/download)
+
+[Lite64 ISO file](https://sourceforge.net/projects/zorin-os/files/12/Zorin-OS-12.2-Lite-64.iso/download)
+
+
+**12.3**:
+
+
+[64-bit ISO file](https://sourceforge.net/projects/zorin-os/files/12/Zorin-OS-12.3-Core-64.iso/download)
+
+[Educational ISO file](https://sourceforge.net/projects/zorin-os/files/12/Zorin-OS-12.3-Education-64.iso/download)
+
+[Lite64 ISO file](https://sourceforge.net/projects/zorin-os/files/12/Zorin-OS-12.3-Lite-64.iso/download)
+
+
+**12.4**:
+
+
+[64-bit ISO file](https://sourceforge.net/projects/zorin-os/files/12/Zorin-OS-12.4-Core-64.iso/download)
+
+[Educational ISO file](https://sourceforge.net/projects/zorin-os/files/12/Zorin-OS-12.4-Education-64.iso/download)
+
+[Lite64 ISO file](https://sourceforge.net/projects/zorin-os/files/12/Zorin-OS-12.4-Lite-64.iso/download)
