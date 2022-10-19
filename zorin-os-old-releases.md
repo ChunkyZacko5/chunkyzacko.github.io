@@ -158,3 +158,44 @@ The old release called **Zorin OS 7**.
 [64-bit](http://ftp.nluug.nl/pub/os/Linux/distr/zorin/7/zorin-os-7.1-core-64.iso)
 
 [Lite](http://ftp.nluug.nl/pub/os/Linux/distr/zorin/7/zorin-os-7.1-lite.iso)
+
+
+# Zorin OS 8
+
+
+The old release called version 8.
+
+
+[32-bit ISO](https://sourceforge.net/projects/zorin-os/files/8/zorin-os-8-core-32.iso/download)
+
+[64-bit ISO](https://sourceforge.net/projects/zorin-os/files/8/zorin-os-8-core-64.iso/download)
+
+[Classic/Lite ISO](https://sourceforge.net/projects/zorin-os/files/8/zorin-os-8-lite.iso/download)
+
+
+**8.1**:
+
+
+[32-bit ISO](https://sourceforge.net/projects/zorin-os/files/8/zorin-os-8.1-core-32.iso/download)
+
+[64-bit ISO](https://sourceforge.net/projects/zorin-os/files/8/zorin-os-8.1-core-64.iso/download)
+
+[Educational ISO](https://sourceforge.net/projects/zorin-os/files/8/zorin-os-8.1-educational-64.iso/download)
+
+
+# Zorin OS 9
+
+The small old 12% called version 9.
+
+
+[32 ISO File](https://sourceforge.net/projects/zorin-os/files/9/zorin-os-9-core-32.iso/download)
+
+[64 ISO File](https://sourceforge.net/projects/zorin-os/files/9/zorin-os-9-core-64.iso/download)
+
+[Lite ISO File](https://sourceforge.net/projects/zorin-os/files/9/zorin-os-9-lite-32.iso/download)
+
+
+**9.1**:
+
+
+[64 ISO File](https://sourceforge.net/projects/zorin-os/files/9/zorin-os-9.1-core-64.iso/download)
