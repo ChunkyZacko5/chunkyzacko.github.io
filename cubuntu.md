@@ -1,4 +1,5 @@
-# Error! Cubuntu is discontinued!
+# Cubuntu
 
-Cubuntu is discontinued because of drama, hating.
+Cubuntu is open-source Linux distribution based on Ubuntu.
+There are no releases.
 
